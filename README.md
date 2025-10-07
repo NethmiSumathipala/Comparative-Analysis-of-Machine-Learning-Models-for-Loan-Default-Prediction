@@ -1,6 +1,6 @@
 # Comparative-Analysis-of-Machine-Learning-Models-for-Loan-Default-Prediction
 
-This project aims to predict the likelihood of loan default using machine learning models based on financial and demographic data. The dataset was obtained from Kaggle, containing customer-level features related to income, employment, credit history, and loan status.
+This project aims to predict the likelihood of loan default using machine learning models based on financial and demographic data. The dataset was obtained from Kaggle(https://www.kaggle.com/datasets/mishra5001/credit-card?select=application_data.csv) , containing customer-level features related to income, employment, credit history, and loan status.
 
 **Project Overview**
 
